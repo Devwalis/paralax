@@ -81,4 +81,22 @@ section{
 }
 
 
+@media(max-width :768px){
+    .letreiro{
+        font-size: 300%
+}
 
+.letreiro2{
+    font-size: 250%;
+}
+
+.letreiro3{
+    font-size: 200%;
+}
+.letreiro4{
+    font-size: 200%;
+}
+
+
+
+}
