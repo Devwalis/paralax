@@ -10,19 +10,19 @@ body, html{
 }
 
 .foto1{
-    background-image: url(/img/IMG-20240124-WA0045.jpg);
+    background-image: url(img/IMG-20240124-WA0045.jpg);
     min-height: 100%;
 }
 .foto2{
-    background-image: url(/img/IMG-20240124-WA0050.jpg);
+    background-image: url(img/IMG-20240124-WA0050.jpg);
     min-height: 60%;
 }
 .foto3{
-    background-image: url(/img/IMG-20240124-WA0051.jpg);
+    background-image: url(img/IMG-20240124-WA0051.jpg);
     min-height: 40%;
 }
 .foto4{
-    background-image: url(/img/IMG-20240124-WA0055.jpg);
+    background-image: url(img/IMG-20240124-WA0055.jpg);
     min-height: 100%;
 }
 
